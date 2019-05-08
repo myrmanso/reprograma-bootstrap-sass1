@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AGCA,AAII,GAJD,AAAA,OAAO,CAIN,EAAE,CAAA;EDSF,SAAS,EDDK,IAAI;ECElB,cAAc,ECTK,SAAS;EDU5B,KAAK,EDhBK,OAAO;CEOhB",
+    "sources": [
+        "style.scss",
+        "scss/_variaveis.scss",
+        "scss/_mixin.scss",
+        "scss/_header.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

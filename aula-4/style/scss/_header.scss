@@ -1,0 +1,9 @@
+
+nav.navbar{
+
+    
+    
+    h1{
+        @include title(uppercase, $color-primary)
+    }
+}
